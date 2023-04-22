@@ -1,0 +1,5 @@
+-- CreateTable
+CREATE TABLE "Chat" (
+    "id" INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+    "messages" TEXT NOT NULL
+);
